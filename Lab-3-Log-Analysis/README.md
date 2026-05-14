@@ -24,5 +24,13 @@ Analyze authentication logs and detect repeated failed login attempts from suspi
 - `logs/auth.log` → sample authentication logs
 - `report.md` → analysis findings
 
-## Screenshots
-(Add screenshots here later)
+## 📸 Screenshots
+
+### Python Detection Script
+![Parser](screenshots/parser.png)
+
+### Detection Output
+![Terminal Output](screenshots/detection_output.png)
+
+### Authentication Logs
+![Auth Logs](screenshots/auth_log.png)
