@@ -11,7 +11,7 @@ scanme.nmap.org
 - macOS Terminal
 - VS Code
 
-### Commands Executed
+### ⚙️ Commands Executed
 ```bash
 nmap -A scanme.nmap.org
 ```
