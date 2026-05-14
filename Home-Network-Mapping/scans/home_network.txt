@@ -1,0 +1,32 @@
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-05-12 14:51 -0400
+Stats: 0:00:04 elapsed; 0 hosts completed (0 up), 256 undergoing Ping Scan
+Ping Scan Timing: About 28.22% done; ETC: 14:51 (0:00:10 remaining)
+Stats: 0:00:04 elapsed; 0 hosts completed (0 up), 256 undergoing Ping Scan
+Ping Scan Timing: About 30.86% done; ETC: 14:51 (0:00:09 remaining)
+Stats: 0:00:04 elapsed; 0 hosts completed (0 up), 256 undergoing Ping Scan
+Ping Scan Timing: About 32.91% done; ETC: 14:51 (0:00:10 remaining)
+Stats: 0:00:06 elapsed; 0 hosts completed (0 up), 256 undergoing Ping Scan
+Ping Scan Timing: About 52.15% done; ETC: 14:51 (0:00:06 remaining)
+Stats: 0:00:07 elapsed; 0 hosts completed (0 up), 256 undergoing Ping Scan
+Ping Scan Timing: About 52.34% done; ETC: 14:51 (0:00:06 remaining)
+Stats: 0:00:07 elapsed; 0 hosts completed (0 up), 256 undergoing Ping Scan
+Ping Scan Timing: About 54.00% done; ETC: 14:51 (0:00:06 remaining)
+Nmap scan report for G3100.myfiosgateway.com (192.168.1.1)
+Host is up (0.0065s latency).
+Nmap scan report for E3200-3CBDC55FF334 (192.168.1.102)
+Host is up (0.0062s latency).
+Nmap scan report for Sensi-0C3673 (192.168.1.151)
+Host is up (0.0054s latency).
+Nmap scan report for Sensi-0BC4E7 (192.168.1.152)
+Host is up (0.0069s latency).
+Nmap scan report for HPCD669B (192.168.1.179)
+Host is up (0.0038s latency).
+Nmap scan report for Jodi-HP (192.168.1.191)
+Host is up (0.0067s latency).
+Nmap scan report for Denon-AVR-X4700H (192.168.1.193)
+Host is up (0.060s latency).
+Nmap scan report for Sensi-1E6A1E (192.168.1.231)
+Host is up (0.0064s latency).
+Nmap scan report for Mac (192.168.1.243)
+Host is up (0.000040s latency).
+Nmap done: 256 IP addresses (9 hosts up) scanned in 17.06 seconds
