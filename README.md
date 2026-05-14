@@ -42,3 +42,14 @@ This project is part of a growing cybersecurity portfolio focused on SOC analyst
 - Lab #2: Home Network Mapping
 - Lab #3: Log Analysis with Python
 - Lab #4: Vulnerability Research (CVEs)
+
+## Screenshots
+
+### GitHub Repository Structure
+![GitHub Repo](screenshots/github_repo.png)
+
+### Nmap Scan Output
+![Nmap Scan](screenshots/nmap_scan.png)
+
+### Security Report in VS Code
+![Report View](screenshots/report_view.png)
