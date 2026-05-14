@@ -11,10 +11,10 @@ scanme.nmap.org
 - macOS Terminal
 - VS Code
 
-### Command Executed
 ### Commands Executed
 ```bash
 nmap -A scanme.nmap.org
+```
 
 ### Findings
 - Port 22 (SSH) open
